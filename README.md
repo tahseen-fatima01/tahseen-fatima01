@@ -67,12 +67,3 @@ Alongside cybersecurity, I have experience in **Graphic Design**, **Social Media
 - Contribute to cybersecurity projects and the open-source community.
 - Continuously improve my technical and problem-solving abilities.
 
-## 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-
-📧 Email: your.email@example.com
-
-🌐 Portfolio: Coming Soon
-
-> **"Learning never stops. Every lab is another step toward becoming a better cybersecurity professional."** 
